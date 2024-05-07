@@ -16,19 +16,19 @@ Foram criadas 3 versões para esta atividade.
 1) *atividadeConvolucao2D_Terminal.py* - versão de programa que irá mostrar o processo de convolução no Terminal.
 
 ```
-$ python atividadeConvolucao2D_Terminal.py
+python atividadeConvolucao2D_Terminal.py
 ```
 
 2) *atividadeConvolucao2D_UmaImagem.py* - versão de programa que irá abrir uma imagem e, dependendo do kernel (núcleo) escolhido pelo usuário, mostrará o resultado da imagem numa janela.
 
 ```
-$ python atividadeConvolucao2D_UmaImagem.py
+python atividadeConvolucao2D_UmaImagem.py
 ```
 
 3) *atividadeConvolucao2D_DuasImagens.py* - versão do programa que irá abrir uma imagem e, dependendo do kernel (núcleo) escolhido pelo usuário, mostrará uma janela com duas imagens, a imagem original e outra imagem com os resultados sendro processados dinamicamente.
 
 ```
-$ python atividadeConvolucao2D_DuasImagens.py
+python atividadeConvolucao2D_DuasImagens.py
 ```
 
 ## Resultado esperado
